@@ -4,7 +4,7 @@
 - 💞️ I'm looking to collaborate on Microsoft.
 - 📫 How to reach me: antonijair076@gmail.com
 - 😄 Pronouns: Tony and skiny
-- ⚡ Fun fact: i'm very curiosity
+- ⚡ Fun fact: Soy muy curioso
 
 <!---
 antnoja07/antnoja07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
