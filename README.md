@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @antnoja07
+- 👋 Hi, I am  @antnoja07
 - 👀 I'm interested in programming.
 - 🌱 I'm currently learning how to use pseudocode.
 - 💞️ I'm looking to collaborate on Microsoft.
